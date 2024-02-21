@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "acoustic-bridge-412312",
+  "private_key_id": "c2c6e6e4662e5c678008406652d1f2c5fa2569bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9o4mnrpE5IYhU\nrUAo0kc6DmwhLRea74KjNsiemBCMko8DW8ocMGc4GuAjEAy2T3BEVoEq7DEGAuNB\nlZ2NL2Bn/y7vwtECPev349L/sHzdLqjuPL4r5ZGEvwopey0YExOHDZMo/+2bUFLN\ngFGHAIwG9Q1E/WQ6oMBVmc1i4kDqMyf/QfkEkXpf1HmSp1AYA7y43jJWdd/nrkEt\nnU4DKfDkdVCJLpG+Tvr4AM6xVUjDysjgOwWDQH0qe9NDuFNeWokUiHN7UpQA5bD1\nJZqmcAVea7NSRj/v7VceiCBTmpjFUkDGSHHZ7G41b0O6UsbnXe44PsTzNEiRjGz7\nF/WEkK4HAgMBAAECggEAEkYuFQCCHLVEg+m7Ywj7Csx/qFAbaYy8U/9gJG2W5VTs\n1HAF8Tgg2jaMyWmEhWpGRpo8vDwib+fbVQ3r2W0VUdrfVQS69getiNJlb3TnCLwJ\nqgYkdT/GtA9iFU6PW+CKuIWbBrpoKoKlArSOJqpA1B13zTbLGnM0gDXf+tq+p/1i\nIz0cGg+LkwXBAsIU/9BSqkQmON+vKJ5BZHGnOYfMnGdmmR6s/mnPvMySs9tNffUI\nUKPt/BQSTxqL2v1N9KSaJPXSWZosq9v96VSVGKkWEYAdzQhxSFCNQXuEZ4/TyoQ1\nd41wCPq8weFfFsb6Uui+E5HfNm0SpjvL8apVLrowAQKBgQDogzWb0K9vsZCjEL3c\nAp8Q3XDQu8Okk/3cP879RE+8lm5uCz4NXHgsExE14vr/DUkNf5v8r0POeHWaelN5\nYfAo6tKoFN1CQktwa5UG8TeAaQbuRLaCwayJW8OAFaP1FB7PTGp83LgZ2qookePz\nmDYddwE6GyezXZfpEp1CSqEaBwKBgQDQy5xnErYrVHbAB5VPXKgM2ZxUWRXXbu0X\nEipD3G3pp+G9a7NbV6U2dAQuuADkL6KHO+mYitSQFVuGeRXLZSN8gINeTMqD9D7k\nhT91y7l56K9Nv6r+W/wZQ9TKfbsojl3mHz7NI3djHJvvnbAm+wpD3XuVzb3KcRDU\nU6xIOL7MAQKBgQDQgEDFfiikH3XVVID81vjvNbQh6g5x+ifupuWl5eke80MJuVkm\nwCIfW+XWDboIl1BII4Os3zoN36WOJl3Ofo3PE2xeP39+GFbv8/lKpWqg4w3NAp8r\nuCNRdZFlvYIulqFeQWdImuEYhiaKhPEGExuL5piaE5nRVX+RCRkuRiAbZwKBgQDF\nbMEmdPrrXaIrUQBNWj9MZzb6SoHsgmaMOhDcucDz/lnk0cF1zRnasziBNFsjaCc1\n1+C47AyxcIBqVnPVLnyvbJTKxbF3s6sESToIF+n465tW2LTGbhOhkBHUpa4iWvtO\nbJzlO3PXs2V+3IuDUDwUj4gbzb53fRF8suFkKMPAAQKBgCbhFNfrQOScm+h8EOSI\nVVW3z/t7h8N7GittgEjIy3rLN2ggEoqne1LI9FOFp1vOcDKXQY2mdKY7O8WxYHCd\nCC8LgKl4mBz6bnLEouZpn9JFhdPohK5M8n2UXZ3UnUG9jC2tZjvqItQVetQuBg1r\nXm8p2OW9L3GX7jRBMf6w9svI\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-image-to-drive@acoustic-bridge-412312.iam.gserviceaccount.com",
+  "client_id": "114902538096485104815",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-image-to-drive%40acoustic-bridge-412312.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
